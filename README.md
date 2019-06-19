@@ -21,3 +21,6 @@ Y_test shape: (1, 1199)
 X_train shape: (12000, 50, 50, 1)
 X_test shape: (1199, 50, 50, 1)
 
+
+The script file for the project is emojinator.py, comprises creating the model, training and testing data, and to check the final outcome.
+
